@@ -91,10 +91,10 @@
 # else:
 #     print("Invalide Operation selected")
 """Take a number and check positive, negative or zero"""
-num=float(input("Enter a number: "))
-if num<0:
-    print(f"{num} is negative")
-elif num>0:
-    print(f"{num} is postive")
-else:
-    print(f"number is {num}")
+# num=float(input("Enter a number: "))
+# if num<0:
+#     print(f"{num} is negative")
+# elif num>0:
+#     print(f"{num} is postive")
+# else:
+#     print(f"number is {num}")
