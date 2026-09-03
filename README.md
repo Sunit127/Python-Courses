@@ -90,14 +90,15 @@ This repository contains my complete **Python learning + teaching course** from 
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 3 completed on September 2, 2026.
+**Current progress:** Day 4 completed on September 3, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
 | 1 | Variables, data types, input, operators, and conditionals | [First_Day.py](First_Day.py) |
 | 2 | Functions and structured problem solving | [Day_002_Functions_and_Problem_Solving.py](Day_002_Functions_and_Problem_Solving.py) |
 | 3 | Loops, collections, and reusable data processing | [Day_003_Loops_Collections_and_Data_Processing.py](Day_003_Loops_Collections_and_Data_Processing.py) |
+| 4 | Strings, text parsing, and validation | [Day_004_Strings_Text_Parsing_and_Validation.py](Day_004_Strings_Text_Parsing_and_Validation.py) |
 
-> **Next lesson:** Day 4 — Strings, text parsing, and validation.
+> **Next lesson:** Day 5 — Exceptions, defensive programming, and reliable error handling.
 
 ---
