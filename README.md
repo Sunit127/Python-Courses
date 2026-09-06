@@ -90,7 +90,7 @@ This repository contains my complete **Python learning + teaching course** from 
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 4 completed on September 3, 2026.
+**Current progress:** Day 5 completed on September 5, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
@@ -98,7 +98,8 @@ This repository contains my complete **Python learning + teaching course** from 
 | 2 | Functions and structured problem solving | [Day_002_Functions_and_Problem_Solving.py](Day_002_Functions_and_Problem_Solving.py) |
 | 3 | Loops, collections, and reusable data processing | [Day_003_Loops_Collections_and_Data_Processing.py](Day_003_Loops_Collections_and_Data_Processing.py) |
 | 4 | Strings, text parsing, and validation | [Day_004_Strings_Text_Parsing_and_Validation.py](Day_004_Strings_Text_Parsing_and_Validation.py) |
+| 5 | Exceptions, defensive programming, and reliable error handling | [Day_005_Exceptions_Defensive_Programming_and_Error_Handling.py](Day_005_Exceptions_Defensive_Programming_and_Error_Handling.py) |
 
-> **Next lesson:** Day 5 — Exceptions, defensive programming, and reliable error handling.
+> **Next lesson:** Day 6 — Modules, imports, and package structure.
 
 ---
