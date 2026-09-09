@@ -90,7 +90,7 @@ This repository contains my complete **Python learning + teaching course** from 
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 8 completed on September 9, 2026.
+**Current progress:** Day 9 completed on September 9, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
@@ -102,7 +102,8 @@ This repository contains my complete **Python learning + teaching course** from 
 | 6 | Modules, imports, and package structure | [Day_006_Modules_Imports_and_Package_Structure.py](Day_006_Modules_Imports_and_Package_Structure.py) |
 | 7 | Files, paths, and context managers | [Day_007_Files_Paths_and_Context_Managers.py](Day_007_Files_Paths_and_Context_Managers.py) |
 | 8 | Object-oriented design with classes and dataclasses | [Day_008_Object_Oriented_Design_with_Classes_and_Dataclasses.py](Day_008_Object_Oriented_Design_with_Classes_and_Dataclasses.py) |
+| 9 | Inheritance, polymorphism, and composition trade-offs | [Day_009_Inheritance_Polymorphism_and_Composition.py](Day_009_Inheritance_Polymorphism_and_Composition.py) |
 
-> **Next lesson:** Day 9 — Inheritance, polymorphism, and composition trade-offs.
+> **Next lesson:** Day 10 — Special methods and the Python data model.
 
 ---
