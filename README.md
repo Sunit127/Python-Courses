@@ -90,7 +90,7 @@ This repository contains my complete **Python learning + teaching course** from 
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 10 completed on September 11, 2026.
+**Current progress:** Day 11 completed on September 12, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
@@ -104,7 +104,8 @@ This repository contains my complete **Python learning + teaching course** from 
 | 8 | Object-oriented design with classes and dataclasses | [Day_008_Object_Oriented_Design_with_Classes_and_Dataclasses.py](Day_008_Object_Oriented_Design_with_Classes_and_Dataclasses.py) |
 | 9 | Inheritance, polymorphism, and composition trade-offs | [Day_009_Inheritance_Polymorphism_and_Composition.py](Day_009_Inheritance_Polymorphism_and_Composition.py) |
 | 10 | Special methods and the Python data model | [Day_010_Special_Methods_and_the_Python_Data_Model.py](Day_010_Special_Methods_and_the_Python_Data_Model.py) |
+| 11 | Protocols, duck typing, and interface design | [Day_011_Protocols_Duck_Typing_and_Interface_Design.py](Day_011_Protocols_Duck_Typing_and_Interface_Design.py) |
 
-> **Next lesson:** Day 11 — Protocols, duck typing, and interface design.
+> **Next lesson:** Day 12 — Type hints, generics, and static analysis.
 
 ---
