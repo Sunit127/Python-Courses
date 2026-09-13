@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🐍 Python Courses (Day 1 → Master)
+# 🐍 Python Courses (90-Day Journey: Day 1 → Master)
 
 ### *Structured Learning | Daily Practice | Real Projects*
 
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Day+1+to+Master+Python+Course+Repository;Fundamentals+%E2%86%92+Intermediate+%E2%86%92+Advanced;Clean+Code+%7C+Problem+Solving+%7C+Projects;Daily+Practice+%26+Version+Control+with+GitHub" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=90-Day+Python+Course+to+Master-Level;Fundamentals+%E2%86%92+Intermediate+%E2%86%92+Advanced;Clean+Code+%7C+Problem+Solving+%7C+Projects;Daily+Practice+%26+Version+Control+with+GitHub" />
 
 </div>
 
@@ -25,7 +25,7 @@
 
 ## 🚀 About This Repository
 
-This repository contains my complete **Python learning + teaching course** from **Day 1** up to **Master level**.
+This repository contains a coherent **90-day Python learning + teaching course** from **Day 1** to **Master level**.
 
 ### ✨ Key Features
 
@@ -40,49 +40,44 @@ This repository contains my complete **Python learning + teaching course** from 
 
 ---
 
-## 🧭 Roadmap (Day 1 → Master)
+## 🧭 Roadmap (Day 1 → Day 90)
 
-### 🟢 Beginner (Day 1–Day 30)
+### 🟢 Foundation & Core Design (Day 1–Day 20)
 
 <details open>
 <summary><b>Click to view topics</b></summary>
 
-- Variables, Data Types, Input/Output
-- Operators & Conditions
-- Loops (for/while) + Patterns
-- Lists, Tuples, Sets, Dictionaries
-- Functions + Problem Solving
-- String Manipulation
+- Variables, data types, input/output, operators, and conditions
+- Loops, collections, functions, strings, and validation
+- Exceptions, modules, files, and context managers
+- OOP, dataclasses, inheritance, protocols, and type hints
+- Small exercises with runnable examples and self-checks
 
 </details>
 
-### 🟡 Intermediate (Day 31–Day 70)
+### 🟡 Intermediate Engineering (Day 21–Day 55)
 
 <details>
 <summary><b>Click to view topics</b></summary>
 
-- File Handling
-- Exception Handling
-- Modules & Packages
-- Recursion
-- OOP (Classes, Objects, Inheritance, Polymorphism)
-- Decorators & Generators
-- Mini projects
+- Functional techniques, iterators, generators, and decorators
+- Databases, serialization, testing, debugging, and packaging
+- Concurrency, multiprocessing, and async programming
+- Networking, HTTP APIs, security, and reliable automation
+- Data structures, algorithms, and increasingly substantial projects
 
 </details>
 
-### 🔵 Advanced / Master (Day 71–Day 120+)
+### 🔵 Advanced / Master Integration (Day 56–Day 90)
 
 <details>
 <summary><b>Click to view topics</b></summary>
 
-- Decorators, Generators, Iterators
-- Data Structures & Algorithms practice
-- Multithreading & Multiprocessing
-- Testing (unittest / pytest)
-- Databases (SQLite / MySQL)
-- APIs & Web (Flask / Django)
-- Automation scripts + advanced projects
+- Performance measurement, profiling, and optimization
+- Architecture, design patterns, web/backend systems, and operations
+- Production quality: typing, documentation, observability, and CI
+- Security-aware integrations and resilient distributed workflows
+- Real-world capstones that combine design, testing, performance, and delivery
 
 </details>
 
@@ -90,7 +85,7 @@ This repository contains my complete **Python learning + teaching course** from 
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 11 completed on September 12, 2026.
+**Current progress:** Day 12 completed on September 13, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
@@ -105,7 +100,8 @@ This repository contains my complete **Python learning + teaching course** from 
 | 9 | Inheritance, polymorphism, and composition trade-offs | [Day_009_Inheritance_Polymorphism_and_Composition.py](Day_009_Inheritance_Polymorphism_and_Composition.py) |
 | 10 | Special methods and the Python data model | [Day_010_Special_Methods_and_the_Python_Data_Model.py](Day_010_Special_Methods_and_the_Python_Data_Model.py) |
 | 11 | Protocols, duck typing, and interface design | [Day_011_Protocols_Duck_Typing_and_Interface_Design.py](Day_011_Protocols_Duck_Typing_and_Interface_Design.py) |
+| 12 | Type hints, generics, and static analysis | [Day_012_Type_Hints_Generics_and_Static_Analysis.py](Day_012_Type_Hints_Generics_and_Static_Analysis.py) |
 
-> **Next lesson:** Day 12 — Type hints, generics, and static analysis.
+> **Next lesson:** Day 13 — Closures, higher-order functions, and functional techniques.
 
 ---
