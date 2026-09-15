@@ -85,7 +85,7 @@ This repository contains a coherent **90-day Python learning + teaching course**
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 12 completed on September 13, 2026.
+**Current progress:** Day 13 completed on September 15, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
@@ -101,7 +101,8 @@ This repository contains a coherent **90-day Python learning + teaching course**
 | 10 | Special methods and the Python data model | [Day_010_Special_Methods_and_the_Python_Data_Model.py](Day_010_Special_Methods_and_the_Python_Data_Model.py) |
 | 11 | Protocols, duck typing, and interface design | [Day_011_Protocols_Duck_Typing_and_Interface_Design.py](Day_011_Protocols_Duck_Typing_and_Interface_Design.py) |
 | 12 | Type hints, generics, and static analysis | [Day_012_Type_Hints_Generics_and_Static_Analysis.py](Day_012_Type_Hints_Generics_and_Static_Analysis.py) |
+| 13 | Closures, higher-order functions, and functional techniques | [Day_013_Closures_Higher_Order_Functions_and_Functional_Techniques.py](Day_013_Closures_Higher_Order_Functions_and_Functional_Techniques.py) |
 
-> **Next lesson:** Day 13 — Closures, higher-order functions, and functional techniques.
+> **Next lesson:** Day 14 — Iterators, generators, and lazy data pipelines.
 
 ---
