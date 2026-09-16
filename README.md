@@ -85,7 +85,7 @@ This repository contains a coherent **90-day Python learning + teaching course**
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 14 completed on September 15, 2026.
+**Current progress:** Day 15 completed on September 16, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
@@ -103,7 +103,8 @@ This repository contains a coherent **90-day Python learning + teaching course**
 | 12 | Type hints, generics, and static analysis | [Day_012_Type_Hints_Generics_and_Static_Analysis.py](Day_012_Type_Hints_Generics_and_Static_Analysis.py) |
 | 13 | Closures, higher-order functions, and functional techniques | [Day_013_Closures_Higher_Order_Functions_and_Functional_Techniques.py](Day_013_Closures_Higher_Order_Functions_and_Functional_Techniques.py) |
 | 14 | Iterators, generators, and lazy data pipelines | [Day_014_Iterators_Generators_and_Lazy_Pipelines.py](Day_014_Iterators_Generators_and_Lazy_Pipelines.py) |
+| 15 | Decorators, wrappers, and reusable instrumentation | [Day_015_Decorators_Wrappers_and_Instrumentation.py](Day_015_Decorators_Wrappers_and_Instrumentation.py) |
 
-> **Next lesson:** Day 15 — Decorators, wrappers, and reusable instrumentation.
+> **Next lesson:** Day 16 — Testing strategies, fixtures, and deterministic debugging.
 
 ---
