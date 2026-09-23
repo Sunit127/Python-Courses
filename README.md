@@ -85,7 +85,7 @@ This repository contains a coherent **90-day Python learning + teaching course**
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 18 completed on September 22, 2026.
+**Current progress:** Day 19 completed on September 23, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
@@ -107,7 +107,8 @@ This repository contains a coherent **90-day Python learning + teaching course**
 | 16 | Testing strategies, fixtures, and deterministic debugging | [Day_016_Testing_Strategies_Fixtures_and_Deterministic_Debugging.py](Day_016_Testing_Strategies_Fixtures_and_Deterministic_Debugging.py) |
 | 17 | Serialization, configuration, and schema-aware data boundaries | [Day_017_Serialization_Configuration_and_Schema_Aware_Data_Boundaries.py](Day_017_Serialization_Configuration_and_Schema_Aware_Data_Boundaries.py) |
 | 18 | SQLite fundamentals, transactions, and safe persistence | [Day_018_SQLite_Fundamentals_Transactions_and_Safe_Persistence.py](Day_018_SQLite_Fundamentals_Transactions_and_Safe_Persistence.py) |
+| 19 | SQLite migrations, indexes, and query planning | [Day_019_SQLite_Migrations_Indexes_and_Query_Planning.py](Day_019_SQLite_Migrations_Indexes_and_Query_Planning.py) |
 
-> **Next lesson:** Day 19 — SQLite migrations, indexes, and query planning.
+> **Next lesson:** Day 20 — SQLite concurrency, WAL mode, and repository architecture.
 
 ---
