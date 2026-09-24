@@ -85,7 +85,7 @@ This repository contains a coherent **90-day Python learning + teaching course**
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 19 completed on September 23, 2026.
+**Current progress:** Day 20 completed on September 24, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
@@ -108,7 +108,8 @@ This repository contains a coherent **90-day Python learning + teaching course**
 | 17 | Serialization, configuration, and schema-aware data boundaries | [Day_017_Serialization_Configuration_and_Schema_Aware_Data_Boundaries.py](Day_017_Serialization_Configuration_and_Schema_Aware_Data_Boundaries.py) |
 | 18 | SQLite fundamentals, transactions, and safe persistence | [Day_018_SQLite_Fundamentals_Transactions_and_Safe_Persistence.py](Day_018_SQLite_Fundamentals_Transactions_and_Safe_Persistence.py) |
 | 19 | SQLite migrations, indexes, and query planning | [Day_019_SQLite_Migrations_Indexes_and_Query_Planning.py](Day_019_SQLite_Migrations_Indexes_and_Query_Planning.py) |
+| 20 | SQLite concurrency, WAL mode, and repository architecture | [Day_020_SQLite_Concurrency_WAL_and_Repository_Architecture.py](Day_020_SQLite_Concurrency_WAL_and_Repository_Architecture.py) |
 
-> **Next lesson:** Day 20 — SQLite concurrency, WAL mode, and repository architecture.
+> **Next lesson:** Day 21 — Packaging, dependency management, and a distributable CLI.
 
 ---
