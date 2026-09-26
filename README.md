@@ -85,7 +85,7 @@ This repository contains a coherent **90-day Python learning + teaching course**
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 20 completed on September 24, 2026.
+**Current progress:** Day 21 completed on September 26, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
@@ -109,7 +109,8 @@ This repository contains a coherent **90-day Python learning + teaching course**
 | 18 | SQLite fundamentals, transactions, and safe persistence | [Day_018_SQLite_Fundamentals_Transactions_and_Safe_Persistence.py](Day_018_SQLite_Fundamentals_Transactions_and_Safe_Persistence.py) |
 | 19 | SQLite migrations, indexes, and query planning | [Day_019_SQLite_Migrations_Indexes_and_Query_Planning.py](Day_019_SQLite_Migrations_Indexes_and_Query_Planning.py) |
 | 20 | SQLite concurrency, WAL mode, and repository architecture | [Day_020_SQLite_Concurrency_WAL_and_Repository_Architecture.py](Day_020_SQLite_Concurrency_WAL_and_Repository_Architecture.py) |
+| 21 | Packaging, dependency management, and distributable CLIs | [Day_021_Packaging_Dependency_Management_and_Distributable_CLIs.py](Day_021_Packaging_Dependency_Management_and_Distributable_CLIs.py) |
 
-> **Next lesson:** Day 21 — Packaging, dependency management, and a distributable CLI.
+> **Next lesson:** Day 22 — Threading, futures, and I/O-bound concurrency.
 
 ---
