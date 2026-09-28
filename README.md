@@ -85,7 +85,7 @@ This repository contains a coherent **90-day Python learning + teaching course**
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 22 completed on September 27, 2026.
+**Current progress:** Day 23 completed on September 28, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
@@ -111,7 +111,8 @@ This repository contains a coherent **90-day Python learning + teaching course**
 | 20 | SQLite concurrency, WAL mode, and repository architecture | [Day_020_SQLite_Concurrency_WAL_and_Repository_Architecture.py](Day_020_SQLite_Concurrency_WAL_and_Repository_Architecture.py) |
 | 21 | Packaging, dependency management, and distributable CLIs | [Day_021_Packaging_Dependency_Management_and_Distributable_CLIs.py](Day_021_Packaging_Dependency_Management_and_Distributable_CLIs.py) |
 | 22 | Threading, futures, and I/O-bound concurrency | [Day_022_Threading_Futures_and_IO_Bound_Concurrency.py](Day_022_Threading_Futures_and_IO_Bound_Concurrency.py) |
+| 23 | Multiprocessing, process pools, and CPU-bound parallelism | [Day_023_Multiprocessing_Process_Pools_and_CPU_Parallelism.py](Day_023_Multiprocessing_Process_Pools_and_CPU_Parallelism.py) |
 
-> **Next lesson:** Day 23 — Multiprocessing, process pools, and CPU-bound parallelism.
+> **Next lesson:** Day 24 — Asyncio event loops, tasks, and cancellation.
 
 ---
