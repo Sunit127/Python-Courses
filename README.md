@@ -85,7 +85,7 @@ This repository contains a coherent **90-day Python learning + teaching course**
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 24 completed on September 29, 2026.
+**Current progress:** Day 25 completed on September 29, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
@@ -113,7 +113,8 @@ This repository contains a coherent **90-day Python learning + teaching course**
 | 22 | Threading, futures, and I/O-bound concurrency | [Day_022_Threading_Futures_and_IO_Bound_Concurrency.py](Day_022_Threading_Futures_and_IO_Bound_Concurrency.py) |
 | 23 | Multiprocessing, process pools, and CPU-bound parallelism | [Day_023_Multiprocessing_Process_Pools_and_CPU_Parallelism.py](Day_023_Multiprocessing_Process_Pools_and_CPU_Parallelism.py) |
 | 24 | Asyncio event loops, tasks, and cancellation | [Day_024_Asyncio_Event_Loops_Tasks_and_Cancellation.py](Day_024_Asyncio_Event_Loops_Tasks_and_Cancellation.py) |
+| 25 | HTTP clients, APIs, retries, and rate limits | [Day_025_HTTP_Clients_APIs_Retries_and_Rate_Limits.py](Day_025_HTTP_Clients_APIs_Retries_and_Rate_Limits.py) |
 
-> **Next lesson:** Day 25 — HTTP clients, APIs, retries, and rate limits.
+> **Next lesson:** Day 26 — HTTP security, authentication, and secure API boundaries.
 
 ---
