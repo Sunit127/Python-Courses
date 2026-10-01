@@ -85,7 +85,7 @@ This repository contains a coherent **90-day Python learning + teaching course**
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 26 completed on September 30, 2026.
+**Current progress:** Day 27 completed on October 1, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
@@ -115,7 +115,8 @@ This repository contains a coherent **90-day Python learning + teaching course**
 | 24 | Asyncio event loops, tasks, and cancellation | [Day_024_Asyncio_Event_Loops_Tasks_and_Cancellation.py](Day_024_Asyncio_Event_Loops_Tasks_and_Cancellation.py) |
 | 25 | HTTP clients, APIs, retries, and rate limits | [Day_025_HTTP_Clients_APIs_Retries_and_Rate_Limits.py](Day_025_HTTP_Clients_APIs_Retries_and_Rate_Limits.py) |
 | 26 | HTTP security, authentication, and secure API boundaries | [Day_026_HTTP_Security_Authentication_and_Secure_API_Boundaries.py](Day_026_HTTP_Security_Authentication_and_Secure_API_Boundaries.py) |
+| 27 | Security hardening, secret rotation, and threat modeling | [Day_027_Security_Hardening_Secret_Rotation_and_Threat_Modeling.py](Day_027_Security_Hardening_Secret_Rotation_and_Threat_Modeling.py) |
 
-> **Next lesson:** Day 27 — Security hardening, secret rotation, and threat modeling.
+> **Next lesson:** Day 28 — Data structures and algorithmic problem solving.
 
 ---
