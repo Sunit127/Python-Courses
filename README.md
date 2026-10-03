@@ -85,7 +85,7 @@ This repository contains a coherent **90-day Python learning + teaching course**
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 27 completed on October 1, 2026.
+**Current progress:** Day 28 completed on October 3, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
@@ -116,7 +116,8 @@ This repository contains a coherent **90-day Python learning + teaching course**
 | 25 | HTTP clients, APIs, retries, and rate limits | [Day_025_HTTP_Clients_APIs_Retries_and_Rate_Limits.py](Day_025_HTTP_Clients_APIs_Retries_and_Rate_Limits.py) |
 | 26 | HTTP security, authentication, and secure API boundaries | [Day_026_HTTP_Security_Authentication_and_Secure_API_Boundaries.py](Day_026_HTTP_Security_Authentication_and_Secure_API_Boundaries.py) |
 | 27 | Security hardening, secret rotation, and threat modeling | [Day_027_Security_Hardening_Secret_Rotation_and_Threat_Modeling.py](Day_027_Security_Hardening_Secret_Rotation_and_Threat_Modeling.py) |
+| 28 | Data structures and algorithmic problem solving | [Day_028_Data_Structures_and_Algorithmic_Problem_Solving.py](Day_028_Data_Structures_and_Algorithmic_Problem_Solving.py) |
 
-> **Next lesson:** Day 28 — Data structures and algorithmic problem solving.
+> **Next lesson:** Day 29 — Performance measurement, profiling, and optimization.
 
 ---
