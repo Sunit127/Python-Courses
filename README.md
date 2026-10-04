@@ -85,7 +85,7 @@ This repository contains a coherent **90-day Python learning + teaching course**
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 29 completed on October 3, 2026.
+**Current progress:** Day 30 completed on October 4, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
@@ -118,7 +118,8 @@ This repository contains a coherent **90-day Python learning + teaching course**
 | 27 | Security hardening, secret rotation, and threat modeling | [Day_027_Security_Hardening_Secret_Rotation_and_Threat_Modeling.py](Day_027_Security_Hardening_Secret_Rotation_and_Threat_Modeling.py) |
 | 28 | Data structures and algorithmic problem solving | [Day_028_Data_Structures_and_Algorithmic_Problem_Solving.py](Day_028_Data_Structures_and_Algorithmic_Problem_Solving.py) |
 | 29 | Performance measurement, profiling, and optimization | [Day_029_Performance_Profiling_and_Optimization.py](Day_029_Performance_Profiling_and_Optimization.py) |
+| 30 | Architecture and design patterns | [Day_030_Architecture_and_Design_Patterns.py](Day_030_Architecture_and_Design_Patterns.py) |
 
-> **Next lesson:** Day 30 — Architecture and design patterns.
+> **Next lesson:** Day 31 — Web and backend service architecture.
 
 ---
