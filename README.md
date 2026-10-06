@@ -85,7 +85,7 @@ This repository contains a coherent **90-day Python learning + teaching course**
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 31 completed on October 5, 2026.
+**Current progress:** Day 32 completed on October 6, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
@@ -119,8 +119,8 @@ This repository contains a coherent **90-day Python learning + teaching course**
 | 28 | Data structures and algorithmic problem solving | [Day_028_Data_Structures_and_Algorithmic_Problem_Solving.py](Day_028_Data_Structures_and_Algorithmic_Problem_Solving.py) |
 | 29 | Performance measurement, profiling, and optimization | [Day_029_Performance_Profiling_and_Optimization.py](Day_029_Performance_Profiling_and_Optimization.py) |
 | 30 | Architecture and design patterns | [Day_030_Architecture_and_Design_Patterns.py](Day_030_Architecture_and_Design_Patterns.py) |
-| 31 | Web and backend service architecture | [Day_031_Web_and_Backend_Service_Architecture.py](Day_031_Web_and_Backend_Service_Architecture.py) |
+| 31 | Web and backend service architecture | [Day_031_Web_and_Backend_Service_Architecture.py](Day_031_Web_and_Backend_Service_Architecture.py) |\n| 32 | Observability, structured logging, and operational diagnostics | [Day_032_Observability_Logging_and_Operational_Diagnostics.py](Day_032_Observability_Logging_and_Operational_Diagnostics.py) |
 
-> **Next lesson:** Day 32 — Observability, logging, and operational diagnostics.
+> **Next lesson:** Day 33 — Reliable automation, idempotency, and resumable workflows.
 
 ---
