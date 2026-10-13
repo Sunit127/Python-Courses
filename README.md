@@ -85,7 +85,7 @@ This repository contains a coherent **90-day Python learning + teaching course**
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 34 completed on October 10, 2026.
+**Current progress:** Day 35 completed on October 13, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
@@ -123,7 +123,8 @@ This repository contains a coherent **90-day Python learning + teaching course**
 | 32 | Observability, structured logging, and operational diagnostics | [Day_032_Observability_Logging_and_Operational_Diagnostics.py](Day_032_Observability_Logging_and_Operational_Diagnostics.py) |
 | 33 | Reliable automation, idempotency, and resumable workflows | [Day_033_Reliable_Automation_Idempotency_and_Resumable_Workflows.py](Day_033_Reliable_Automation_Idempotency_and_Resumable_Workflows.py) |
 | 34 | Continuous integration, quality gates, and reproducible releases | [Day_034_Continuous_Integration_Quality_Gates_and_Reproducible_Releases.py](Day_034_Continuous_Integration_Quality_Gates_and_Reproducible_Releases.py) |
+| 35 | Contract testing, schema evolution, and compatibility | [Day_035_Contract_Testing_Schema_Evolution_and_Compatibility.py](Day_035_Contract_Testing_Schema_Evolution_and_Compatibility.py) |
 
-> **Next lesson:** Day 35 — Contract testing, schema evolution, and compatibility.
+> **Next lesson:** Day 36 — Caching strategies, invalidation, and consistency.
 
 ---
