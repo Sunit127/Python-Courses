@@ -85,7 +85,7 @@ This repository contains a coherent **90-day Python learning + teaching course**
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 36 completed on October 14, 2026.
+**Current progress:** Day 37 completed on October 16, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
@@ -125,7 +125,8 @@ This repository contains a coherent **90-day Python learning + teaching course**
 | 34 | Continuous integration, quality gates, and reproducible releases | [Day_034_Continuous_Integration_Quality_Gates_and_Reproducible_Releases.py](Day_034_Continuous_Integration_Quality_Gates_and_Reproducible_Releases.py) |
 | 35 | Contract testing, schema evolution, and compatibility | [Day_035_Contract_Testing_Schema_Evolution_and_Compatibility.py](Day_035_Contract_Testing_Schema_Evolution_and_Compatibility.py) |
 | 36 | Caching strategies, invalidation, and consistency | [Day_036_Caching_Strategies_Invalidation_and_Consistency.py](Day_036_Caching_Strategies_Invalidation_and_Consistency.py) |
+| 37 | Event-driven systems, delivery semantics, and idempotent consumers | [Day_037_Event_Driven_Systems_Delivery_Semantics_and_Idempotent_Consumers.py](Day_037_Event_Driven_Systems_Delivery_Semantics_and_Idempotent_Consumers.py) |
 
-> **Next lesson:** Day 37 — Event-driven systems, delivery semantics, and idempotent consumers.
+> **Next lesson:** Day 38 — Task queues, backpressure, and graceful worker shutdown.
 
 ---
