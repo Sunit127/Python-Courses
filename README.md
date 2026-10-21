@@ -85,7 +85,7 @@ This repository contains a coherent **90-day Python learning + teaching course**
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 37 completed on October 16, 2026.
+**Current progress:** Day 38 completed on October 21, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
@@ -126,7 +126,8 @@ This repository contains a coherent **90-day Python learning + teaching course**
 | 35 | Contract testing, schema evolution, and compatibility | [Day_035_Contract_Testing_Schema_Evolution_and_Compatibility.py](Day_035_Contract_Testing_Schema_Evolution_and_Compatibility.py) |
 | 36 | Caching strategies, invalidation, and consistency | [Day_036_Caching_Strategies_Invalidation_and_Consistency.py](Day_036_Caching_Strategies_Invalidation_and_Consistency.py) |
 | 37 | Event-driven systems, delivery semantics, and idempotent consumers | [Day_037_Event_Driven_Systems_Delivery_Semantics_and_Idempotent_Consumers.py](Day_037_Event_Driven_Systems_Delivery_Semantics_and_Idempotent_Consumers.py) |
+| 38 | Task queues, backpressure, and graceful worker shutdown | [Day_038_Task_Queues_Backpressure_and_Graceful_Worker_Shutdown.py](Day_038_Task_Queues_Backpressure_and_Graceful_Worker_Shutdown.py) |
 
-> **Next lesson:** Day 38 — Task queues, backpressure, and graceful worker shutdown.
+> **Next lesson:** Day 39 — Durable scheduling, leases, and distributed coordination.
 
 ---
