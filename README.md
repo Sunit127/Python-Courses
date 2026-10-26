@@ -85,7 +85,7 @@ This repository contains a coherent **90-day Python learning + teaching course**
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 40 completed on October 25, 2026.
+**Current progress:** Day 41 completed on October 26, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
@@ -129,7 +129,8 @@ This repository contains a coherent **90-day Python learning + teaching course**
 | 38 | Task queues, backpressure, and graceful worker shutdown | [Day_038_Task_Queues_Backpressure_and_Graceful_Worker_Shutdown.py](Day_038_Task_Queues_Backpressure_and_Graceful_Worker_Shutdown.py) |
 | 39 | Durable scheduling, leases, and distributed coordination | [Day_039_Durable_Scheduling_Leases_and_Distributed_Coordination.py](Day_039_Durable_Scheduling_Leases_and_Distributed_Coordination.py) |
 | 40 | Distributed locks, fencing tokens, and failure recovery | [Day_040_Distributed_Locks_Fencing_Tokens_and_Failure_Recovery.py](Day_040_Distributed_Locks_Fencing_Tokens_and_Failure_Recovery.py) |
+| 41 | Sagas, compensating actions, and cross-service consistency | [Day_041_Sagas_Compensating_Actions_and_Cross_Service_Consistency.py](Day_041_Sagas_Compensating_Actions_and_Cross_Service_Consistency.py) |
 
-> **Next lesson:** Day 41 — Sagas, compensating actions, and cross-service consistency.
+> **Next lesson:** Day 42 — CQRS, materialized views, and eventual-consistency projections.
 
 ---
