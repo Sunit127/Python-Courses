@@ -85,7 +85,7 @@ This repository contains a coherent **90-day Python learning + teaching course**
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 41 completed on October 26, 2026.
+**Current progress:** Day 42 completed on October 27, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
@@ -130,7 +130,8 @@ This repository contains a coherent **90-day Python learning + teaching course**
 | 39 | Durable scheduling, leases, and distributed coordination | [Day_039_Durable_Scheduling_Leases_and_Distributed_Coordination.py](Day_039_Durable_Scheduling_Leases_and_Distributed_Coordination.py) |
 | 40 | Distributed locks, fencing tokens, and failure recovery | [Day_040_Distributed_Locks_Fencing_Tokens_and_Failure_Recovery.py](Day_040_Distributed_Locks_Fencing_Tokens_and_Failure_Recovery.py) |
 | 41 | Sagas, compensating actions, and cross-service consistency | [Day_041_Sagas_Compensating_Actions_and_Cross_Service_Consistency.py](Day_041_Sagas_Compensating_Actions_and_Cross_Service_Consistency.py) |
+| 42 | CQRS, materialized views, and eventual-consistency projections | [Day_042_CQRS_Materialized_Views_and_Eventual_Consistency.py](Day_042_CQRS_Materialized_Views_and_Eventual_Consistency.py) |
 
-> **Next lesson:** Day 42 — CQRS, materialized views, and eventual-consistency projections.
+> **Next lesson:** Day 43 — Event sourcing snapshots, replay, and auditability.
 
 ---
