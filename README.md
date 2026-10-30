@@ -85,7 +85,7 @@ This repository contains a coherent **90-day Python learning + teaching course**
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 43 completed on October 29, 2026.
+**Current progress:** Day 44 completed on October 30, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
@@ -132,7 +132,8 @@ This repository contains a coherent **90-day Python learning + teaching course**
 | 41 | Sagas, compensating actions, and cross-service consistency | [Day_041_Sagas_Compensating_Actions_and_Cross_Service_Consistency.py](Day_041_Sagas_Compensating_Actions_and_Cross_Service_Consistency.py) |
 | 42 | CQRS, materialized views, and eventual-consistency projections | [Day_042_CQRS_Materialized_Views_and_Eventual_Consistency.py](Day_042_CQRS_Materialized_Views_and_Eventual_Consistency.py) |
 | 43 | Event sourcing, snapshots, replay, and auditability | [Day_043_Event_Sourcing_Snapshots_Replay_and_Auditability.py](Day_043_Event_Sourcing_Snapshots_Replay_and_Auditability.py) |
+| 44 | Event schema evolution, upcasting, and replay compatibility | [Day_044_Event_Schema_Evolution_Upcasting_and_Replay_Compatibility.py](Day_044_Event_Schema_Evolution_Upcasting_and_Replay_Compatibility.py) |
 
-> **Next lesson:** Day 44 — Event schema evolution, upcasting, and replay compatibility.
+> **Next lesson:** Day 45 — Distributed workflow orchestration and durable process managers.
 
 ---
