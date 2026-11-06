@@ -85,7 +85,7 @@ This repository contains a coherent **90-day Python learning + teaching course**
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 44 completed on October 30, 2026.
+**Current progress:** Day 45 completed on November 6, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
@@ -134,6 +134,8 @@ This repository contains a coherent **90-day Python learning + teaching course**
 | 43 | Event sourcing, snapshots, replay, and auditability | [Day_043_Event_Sourcing_Snapshots_Replay_and_Auditability.py](Day_043_Event_Sourcing_Snapshots_Replay_and_Auditability.py) |
 | 44 | Event schema evolution, upcasting, and replay compatibility | [Day_044_Event_Schema_Evolution_Upcasting_and_Replay_Compatibility.py](Day_044_Event_Schema_Evolution_Upcasting_and_Replay_Compatibility.py) |
 
-> **Next lesson:** Day 45 — Distributed workflow orchestration and durable process managers.
+| 45 | Distributed workflow orchestration and durable process managers | [Day_045_Distributed_Workflow_Orchestration_and_Durable_Process_Managers.py](Day_045_Distributed_Workflow_Orchestration_and_Durable_Process_Managers.py) |
+
+> **Next lesson:** Day 46 — Workflow versioning, deterministic replay, and safe deployments.
 
 ---
