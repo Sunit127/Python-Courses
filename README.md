@@ -85,7 +85,7 @@ This repository contains a coherent **90-day Python learning + teaching course**
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 46 completed on November 10, 2026.
+**Current progress:** Day 47 completed on November 13, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
@@ -136,7 +136,8 @@ This repository contains a coherent **90-day Python learning + teaching course**
 
 | 45 | Distributed workflow orchestration and durable process managers | [Day_045_Distributed_Workflow_Orchestration_and_Durable_Process_Managers.py](Day_045_Distributed_Workflow_Orchestration_and_Durable_Process_Managers.py) |
 | 46 | Workflow versioning, deterministic replay, and safe deployments | [Day_046_Workflow_Versioning_Deterministic_Replay_and_Safe_Deployments.py](Day_046_Workflow_Versioning_Deterministic_Replay_and_Safe_Deployments.py) |
+| 47 | Release engineering: feature flags, canary rollouts, and rollback drills | [Day_047_Release_Engineering_Feature_Flags_Canary_Rollouts_and_Rollback_Drills.py](Day_047_Release_Engineering_Feature_Flags_Canary_Rollouts_and_Rollback_Drills.py) |
 
-> **Next lesson:** Day 47 — Release engineering: feature flags, canary rollouts, and rollback drills.
+> **Next lesson:** Day 48 — Incident response, SLOs, and error-budget policy.
 
 ---
