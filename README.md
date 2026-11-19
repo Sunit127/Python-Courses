@@ -85,7 +85,7 @@ This repository contains a coherent **90-day Python learning + teaching course**
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 49 completed on November 17, 2026.
+**Current progress:** Day 50 completed on November 19, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
@@ -139,7 +139,8 @@ This repository contains a coherent **90-day Python learning + teaching course**
 | 47 | Release engineering: feature flags, canary rollouts, and rollback drills | [Day_047_Release_Engineering_Feature_Flags_Canary_Rollouts_and_Rollback_Drills.py](Day_047_Release_Engineering_Feature_Flags_Canary_Rollouts_and_Rollback_Drills.py) |
 | 48 | Incident response, SLOs, and error-budget policy | [Day_048_Incident_Response_SLOs_and_Error_Budget_Policy.py](Day_048_Incident_Response_SLOs_and_Error_Budget_Policy.py) |
 | 49 | Capacity planning, load testing, and resilience budgets | [Day_049_Capacity_Planning_Load_Testing_and_Resilience_Budgets.py](Day_049_Capacity_Planning_Load_Testing_and_Resilience_Budgets.py) |
+| 50 | Chaos engineering, fault injection, and recovery validation | [Day_050_Chaos_Engineering_Fault_Injection_and_Recovery_Validation.py](Day_050_Chaos_Engineering_Fault_Injection_and_Recovery_Validation.py) |
 
-> **Next lesson:** Day 50 — Chaos engineering, fault injection, and recovery validation.
+> **Next lesson:** Day 51 — Disaster recovery, backups, restore testing, and RPO/RTO.
 
 ---
