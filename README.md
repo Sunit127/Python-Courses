@@ -85,7 +85,7 @@ This repository contains a coherent **90-day Python learning + teaching course**
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 51 completed on November 20, 2026.
+**Current progress:** Day 52 completed on November 21, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
@@ -141,7 +141,8 @@ This repository contains a coherent **90-day Python learning + teaching course**
 | 49 | Capacity planning, load testing, and resilience budgets | [Day_049_Capacity_Planning_Load_Testing_and_Resilience_Budgets.py](Day_049_Capacity_Planning_Load_Testing_and_Resilience_Budgets.py) |
 | 50 | Chaos engineering, fault injection, and recovery validation | [Day_050_Chaos_Engineering_Fault_Injection_and_Recovery_Validation.py](Day_050_Chaos_Engineering_Fault_Injection_and_Recovery_Validation.py) |
 | 51 | Disaster recovery, backups, restore testing, and RPO/RTO | [Day_051_Disaster_Recovery_Backups_Restore_Testing_and_RPO_RTO.py](Day_051_Disaster_Recovery_Backups_Restore_Testing_and_RPO_RTO.py) |
+| 52 | Multi-region failover, replication lag, and split-brain prevention | [Day_052_Multi_Region_Failover_Replication_Lag_and_Split_Brain_Prevention.py](Day_052_Multi_Region_Failover_Replication_Lag_and_Split_Brain_Prevention.py) |
 
-> **Next lesson:** Day 52 — Multi-region failover, replication lag, and split-brain prevention.
+> **Next lesson:** Day 53 — Distributed consensus, leader election, and membership changes.
 
 ---
