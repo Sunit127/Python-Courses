@@ -85,7 +85,7 @@ This repository contains a coherent **90-day Python learning + teaching course**
 
 ## 📚 Daily Lesson Index
 
-**Current progress:** Day 52 completed on November 21, 2026.
+**Current progress:** Day 53 completed on November 22, 2026.
 
 | Day | Topic | Lesson |
 |---:|---|---|
@@ -142,7 +142,8 @@ This repository contains a coherent **90-day Python learning + teaching course**
 | 50 | Chaos engineering, fault injection, and recovery validation | [Day_050_Chaos_Engineering_Fault_Injection_and_Recovery_Validation.py](Day_050_Chaos_Engineering_Fault_Injection_and_Recovery_Validation.py) |
 | 51 | Disaster recovery, backups, restore testing, and RPO/RTO | [Day_051_Disaster_Recovery_Backups_Restore_Testing_and_RPO_RTO.py](Day_051_Disaster_Recovery_Backups_Restore_Testing_and_RPO_RTO.py) |
 | 52 | Multi-region failover, replication lag, and split-brain prevention | [Day_052_Multi_Region_Failover_Replication_Lag_and_Split_Brain_Prevention.py](Day_052_Multi_Region_Failover_Replication_Lag_and_Split_Brain_Prevention.py) |
+| 53 | Distributed consensus, leader election, and membership changes | [Day_053_Distributed_Consensus_Leader_Election_and_Membership_Changes.py](Day_053_Distributed_Consensus_Leader_Election_and_Membership_Changes.py) |
 
-> **Next lesson:** Day 53 — Distributed consensus, leader election, and membership changes.
+> **Next lesson:** Day 54 — CPython internals, memory behavior, and descriptors.
 
 ---
